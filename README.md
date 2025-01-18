@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using catch-all routes ('/*') in React Router DOM v6. The problem arises when the catch-all route is placed after more specific routes.  This can prevent the catch-all from ever being reached. The solution shows how to correctly place the catch-all route to ensure it functions as intended.
